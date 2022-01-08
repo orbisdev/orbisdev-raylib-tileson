@@ -1,8 +1,9 @@
 # raylib-tileson
 
-Use [Tiled](https://www.mapeditor.org) maps in [raylib](https://www.raylib.com/), through [Tileson](https://github.com/SSBMTonberry/tileson).
+Use [Tiled](https://www.mapeditor.org) maps in [raylib4orbis](https://github.com/orbisdev/orbisdev-raylib), through [Tileson](https://github.com/SSBMTonberry/tileson).
 
-![raylib-tileson orginal source from](https://github.com/RobLoach/raylib-tileson)
+## Credits
+[raylib-tileson orginal source from](https://github.com/RobLoach/raylib-tileson) by Rob Loach
 
 
 ## License
